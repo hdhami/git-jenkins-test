@@ -1,2 +1,2 @@
 # git-jenkins-test
-git-kenkins-test
+git-jenkins-test
